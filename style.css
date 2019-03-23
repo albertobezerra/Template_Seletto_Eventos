@@ -1,0 +1,594 @@
+/*
+Theme Name: Seletto Eventos
+Theme URI: 
+Author: Alberto Bezerra
+Author URI: http://www.albertobezerra.com
+Description: Tema desenvolvido sobre demanda.
+Version: 1.0
+Tags: Privado, Casamento, Empresa de Eventos
+
+*/
+
+
+
+
+@font-face {
+	font-family: "amarant";
+	src: url("assets/fonts/Amaranth.otf");
+}
+
+@font-face {
+	font-family: 'Raleway', sans-serif;
+}
+
+.clear{
+	clear: both;
+}
+
+
+.header .navbar-brand{
+	float: none;
+}
+
+
+.header .navbar-custom{
+	background: #fff;
+	float: none;
+	margin-bottom: 0;
+	border-bottom: 1px;
+	border-style: solid;
+	border-color: #93278F;
+
+}
+
+.navbar-default .navbar-nav>li>a{
+	color: #93278F;
+	font-family: amarant;
+	font-size: 14px;
+}
+
+.navbar-default .navbar-nav>li>a:focus{
+	color: #93278F;
+}
+
+.navbar-default .navbar-nav>li>a:hover{
+	color: #fff;
+	background-color: #93278F;
+}
+
+.navbar-default .navbar-nav>li>a:active{
+	color: #fff;
+	background-color: #93278F;
+}
+
+.navbar-default .navbar-nav>.active>a, 
+.navbar-default .navbar-nav>.active>a:focus, 
+.navbar-default .navbar-nav>.active>a:hover{
+	color: #fff;
+	background-color: #93278F;
+}
+
+
+.logo{
+	width: 90px;
+}
+
+.video{
+	border: none;
+	margin-top: 54px;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+
+
+
+@media (min-width: 768px){
+	
+	.navbar-nav>li>a{
+		padding-top: 33px;
+		padding-bottom: 33px;
+	}
+}
+
+.carousel-indicators .active{
+	background-color: #93278F; 
+}
+
+
+.leia-mais{
+	padding: 8px 20px;
+	text-transform: uppercase;
+	margin: 50px;
+	margin-bottom: 100px;
+	display: inline-block;
+	color: #93278F;
+	background-color: #fff ;
+	border: 3px #93278F solid;
+	font-family: amarant;
+}
+
+.leia-mais:hover, .leia-mais:focus{
+	color: #fff;
+	background-color: #93278F;
+	text-decoration: none;
+}
+
+.leia-mais:active{
+	color: #fff;
+	background-color: #93278F;
+}
+
+
+
+
+
+
+.carousel-caption{
+	bottom: 100px;
+}
+
+
+.maiu{
+	text-transform:uppercase;
+}
+
+
+
+
+.servicos{
+	padding-top: 60px;
+	text-align: center;
+	background: #3fbcea;
+}
+.servicos i{
+	font-size: 50px;
+	text-align: center;
+	display: relative;
+	color: #00e0d0;
+	margin-top: 20px;
+}
+
+.servicos .row .col-md-4{
+	margin-top: 150px;
+	bottom: 100px
+}
+
+
+
+
+
+
+
+
+.sobre{
+	background: #fff;
+	text-align: center;
+}
+
+.sobre h2{
+	color: #93278F;
+	text-transform: uppercase;
+	text-align: center;
+	font-family: amarant;
+	font-size: 40px;
+}
+
+.sobre p{
+	color: #93278F;
+	margin-top: 60px;
+	margin-bottom: 80px;
+	margin-right: 40px;
+	margin-left: 20px;
+	padding: 0;
+	font-family: amarant;
+	font-size: 25px;
+	text-align: justify-all;
+}
+
+.sobre h3{
+	color: #93278F;
+	text-transform: uppercase;
+	text-align: center;
+	margin-bottom: 80px;
+	font-family: amarant;
+	font-size: 30px;
+	padding-top: 40px;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+
+
+
+
+
+
+.tarssia h2{
+	color: #93278F;
+	text-transform: uppercase;
+	text-align: center;
+	font-family: amarant;
+	font-size: 40px;
+	padding-top: 30px;
+}
+
+.tarssia p{
+	color: #93278F;
+	margin-top: 60px;
+	margin-bottom: 80px;
+	margin-right: 50px;
+	margin-left: 50px;
+	text-align: center;
+	padding: 0 40px;
+	font-family: amarant;
+	font-size: 25px;
+}
+
+
+.botoes{
+	text-align: center;
+}
+
+.orcamento{
+	margin-top: 120px;
+	padding: 35px;
+	background: #93278F;
+	border: none;
+	color: #fff;
+	font-family: amarant;
+	margin-bottom: 	60px;
+	margin-right: 40px;
+	margin-left: 30px;
+	font-size: 30px;
+}
+
+.orcamento>a{
+	color: #fff;
+	text-decoration: none;
+}
+
+.orcamento2{
+	margin-top: 20px;
+	padding: 35px;
+	background: #93278F;
+	border: none;
+	color: #fff;
+	font-family: amarant;
+	margin-bottom: 	60px;
+	margin-right: 40px;
+	margin-left: 30px;
+	font-size: 30px;
+	text-decoration: none;
+}
+
+.orcamento2>a{
+	color: #fff;
+	text-decoration: none;
+}
+
+
+
+
+
+.size{
+	width: 100%
+}
+.posts{
+	margin-top: 100px;
+	background-color: #e8e8e8;
+}
+.posts .title-posts{
+	text-align: center;
+	display: block;
+	margin-top: 80px;
+	margin-bottom: 80px;
+	color: #93278F;
+	font-family: amarant;
+}
+
+
+.posts2{
+	margin-bottom: 100px;
+}
+.posts2 .title-posts2{
+	text-align: center;
+	display: block;
+	margin-top: 80px;
+	margin-bottom: 80px;
+	color: #93278F;
+	font-family: amarant;
+}
+
+.rola{
+	width: 360px;
+	height: 280px;
+}
+
+.rola2{
+	background: #93278F;
+	margin-top: 0;
+	padding-top: 20px;
+	padding-bottom: 40px;
+	color: #fff;
+	margin-bottom: 50px;
+}
+
+
+
+/* FOOTER */
+.footer{
+	
+	background: #93278F;
+	text-align: center;
+
+}
+
+.logo-footer{
+	width: 100px;
+	margin-top: 60px;
+	margin-bottom: 20px;
+}
+
+.direitos{
+	color:#fff; 
+	font-family: Raleway;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+
+ .endereco{
+	color:#fff; 
+	font-family: Raleway;
+	margin-bottom: 40px;
+}
+
+.footer-social{
+	padding-top: 40px;
+	background: #93278F;
+}
+
+
+
+/*   página interna   */
+
+
+.header-page .navbar-brand{
+	float: none;
+}
+
+
+.header-page .navbar-custom{
+	background: #fff;
+	float: none;
+	margin-bottom: 0;
+	border-bottom: 1px;
+	border-style: solid;
+	border-color: #93278F;
+
+}
+
+
+.imagemback{
+	margin-top: 87px;
+	width: 100%;
+	
+}
+
+.page{
+	text-align: center;
+	font-family: Raleway;
+}
+
+
+.salao>a>img{
+	margin-top: 70px;
+	margin-bottom: 40px;
+}
+
+
+
+.hovereffect {
+width:360px;
+height:270px;
+float:left;
+overflow:hidden;
+position:relative;
+text-align:center;
+cursor:default;
+margin-bottom: 30px;
+}
+
+.hovereffect .overlay {
+width:100%;
+height:100%;
+position:absolute;
+overflow:hidden;
+top:0;
+left:0;
+opacity:0;
+background-color:rgba(147,40,141,0.5);
+-webkit-transition:all .4s ease-in-out;
+transition:all .4s ease-in-out
+}
+
+.hovereffect img {
+display:block;
+position:relative;
+-webkit-transition:all .4s linear;
+transition:all .4s linear;
+width:360px;
+height:270px;
+}
+
+.hovereffect h2 {
+text-transform:uppercase;
+color:#fff;
+text-align:center;
+position:relative;
+font-size:26px;
+background:rgba(147,40,141,1);
+-webkit-transform:translatey(-100px);
+-ms-transform:translatey(-100px);
+transform:translatey(-100px);
+-webkit-transition:all .2s ease-in-out;
+transition:all .2s ease-in-out;
+padding:10px;
+font-family: amarant;
+}
+
+.hovereffect a.info {
+text-decoration:none;
+display:inline-block;
+text-transform:uppercase;
+color:#fff;
+border:1px solid #fff;
+background-color:transparent;
+opacity:0;
+filter:alpha(opacity=0);
+-webkit-transition:all .2s ease-in-out;
+transition:all .2s ease-in-out;
+margin:50px 0 0;
+padding:7px 14px;
+}
+
+.hovereffect a.info:hover {
+box-shadow:0 0 5px #fff;
+text-decoration: none;
+}
+
+.hovereffect:hover img {
+-ms-transform:scale(1.2);
+-webkit-transform:scale(1.2);
+transform:scale(1.2);
+}
+
+.hovereffect:hover .overlay {
+opacity:1;
+filter:alpha(opacity=100);
+}
+
+.hovereffect:hover h2,.hovereffect:hover a.info {
+opacity:1;
+filter:alpha(opacity=100);
+-ms-transform:translatey(0);
+-webkit-transform:translatey(0);
+transform:translatey(0);
+text-decoration: none;
+}
+
+.hovereffect:hover a.info {
+-webkit-transition-delay:.2s;
+transition-delay:.2s;
+}
+
+.hovereffect a{
+	color: #fff;
+	text-decoration: none;
+
+}
+
+
+
+
+/*--------------------casamentos----------------*/
+
+.casamentos{
+	margin-top: 87px;
+	text-align: center;
+	text-decoration: none;
+}
+
+.casamentos>.container>h2{
+	margin-top: 40px;
+	margin-bottom: 40px;
+	font-family: amarant;
+
+}
+
+.casamentos>.container>h2>a{
+	text-decoration: none;
+	color: #93278F;
+
+}
+
+/*--------------------page-orcamentos----------------*/
+
+.page-orcamentos{
+	margin-top: 87px;
+	text-align: center;
+	text-decoration: none;
+}
+
+.page-orcamentos>.container>h1{
+	margin-top: 80px;
+	color: #93278F;
+	font-family: amarant;
+}
+
+.page-orcamentos>.container>h2{
+	margin-bottom: 80px;
+	color: #93278F;
+	font-family: amarant;
+}
+
+.page-orcamentos>.container>h3{
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 70px;
+	color: #93278F;
+	font-family: Raleway;
+}
+
+.espaco{
+	margin-bottom: 50px;
+}
+
+
+.form-casa{
+	margin-top: 50px;
+}
+
+.form-casa label{
+	font-family: Raleway !important;
+	color: #93278F !important;
+}
+
+.form-casa input{
+	font-family: Raleway !important;
+	border-radius: 0 !important;
+}
+
+.form-casa textarea{
+	font-family: Raleway !important;
+	border-radius: 0 !important;
+}
+
+.form-casa button{
+	margin: 0 auto !important;
+	display: block !important;
+	background: #93278F !important;
+	color: #fff !important;
+	width: 100%;
+	border-radius: 0 !important;
+}
+
+.navbar-toggle{
+	border: none !important;
+	background: #93278F !important;
+	margin-top: 27px !important;
+  	margin-right: 25px !important;
+}
+
+.navbar-toggle:hover{
+	background-color: #771F77 !important;
+}
+
+
+.navbar-toggle .icon-bar {
+  background-color: #fff !important;
+}
+
+.navbar-brand>img{
+	margin-left: 25px !important;
+}
