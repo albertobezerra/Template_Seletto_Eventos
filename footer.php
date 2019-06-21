@@ -1,4 +1,3 @@
-
 <div class="footer">
 	<div class="container">
 	
@@ -16,14 +15,15 @@
 
 			<div class=".col-xs-6 .col-md-4">
 
-				<div class="fb-page" data-href="https://www.facebook.com/selettoeventos/" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-height="528" data-show-facepile="false"><blockquote cite="https://www.facebook.com/selettoeventos/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/selettoeventos/">Seletto Eventos</a></blockquote></div>
+				<div class="fb-page" data-href="https://www.facebook.com/selettoeventos/" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-height="396" data-show-facepile="false"><blockquote cite="https://www.facebook.com/selettoeventos/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/selettoeventos/">Seletto Eventos</a></blockquote></div>
 
-			
+				
 				<!-- SnapWidget -->
-				<iframe src="https://snapwidget.com/embed/360514" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:390px; height:520px"></iframe>
+<script src="https://snapwidget.com/js/snapwidget.js"></script>
+<iframe src="https://snapwidget.com/embed/705858" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:390px; height:396px "></iframe>
 
 
-				<div class="fb-page" data-href="https://www.facebook.com/Seletto-Ateli&#xea;-833215230070625" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-height="528" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/Seletto-Ateli&#xea;-833215230070625" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Seletto-Ateli&#xea;-833215230070625">Seletto Ateliê</a></blockquote></div>
+				<div class="fb-page" data-href="https://www.facebook.com/Seletto-Ateli&#xea;-833215230070625" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-height="396" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/Seletto-Ateli&#xea;-833215230070625" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Seletto-Ateli&#xea;-833215230070625">Seletto Ateliê</a></blockquote></div>
 
 			</div>
 			
